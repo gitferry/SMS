@@ -12,3 +12,8 @@ InBox::~InBox()
 {
     delete ui;
 }
+
+//void InBox::on_pushButton_clicked()
+//{
+
+//}

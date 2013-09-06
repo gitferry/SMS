@@ -1,7 +1,8 @@
 #include <QtGui/QApplication>
+#include <QString>
 #include "mainwindow.h"
-#include "edicttext.h"
 
+QString telNumber;
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
